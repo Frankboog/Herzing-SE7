@@ -2,7 +2,7 @@
 
 ## Description:
 Here is the JavaFX back-end order management system. I only had time to complete one CRUD process in full.
-Buttons are in place for more servies. This OMS will display the product objects from the mysql database.
+Buttons are in place for more services. This OMS will display the product objects from the mysql database.
 The user can create, edit, and delete products, all from the Product Manager Page.
 
 ## Team:
