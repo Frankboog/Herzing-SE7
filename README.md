@@ -10,23 +10,23 @@ Frank James
 
 
 ## OMS Landing Page (Udated):
-Still needs a bit of work, but moving in the right direction.
+Still needs a bit of work, but moving in the right direction. 
 Product Manager button and MenuItem work
 ![](images/landing.PNG)
 
 ## Product Manager Page:
-This is the Product Manager Page. All CRUD functions work.
+This is the Product Manager Page. All CRUD functions work. 
 Table view working.
 ![](images/manager.PNG)
 
 ## Create Product:
-To create a product just fill in the form and press save.
+To create a product just fill in the form and press save. 
 Validations are not built in for this demonstration.
 ![](images/add_product.PNG)
 
 ## Edit Product:
-Notice the new 'TESTNEW' product at the bottom of list
-We will edit 'TEST3' prodcut.
+Notice the new 'TESTNEW' product at the bottom of list. 
+We will edit 'TEST3' product.
 ![](images/edit.PNG)
 
 ## Product Manager After Edit:
@@ -34,12 +34,12 @@ Notice test3 now says 'TEST EDIT FUNCTION'
 ![](images/after_edit.PNG)
 
 ## Delete Product:
-We will delete the 'TESTNEW' product.
+We will delete the 'TESTNEW' product. 
 Pop up window with confirm question.
 ![](images/delete.PNG)
 
 ## Final Product Manager:
-Final view with deleted 'TESTNEW' Product
+Final view with deleted 'TESTNEW' Product.
 ![](images/finalJavaFX.PNG)
 
 ## MySQL (After OMS Changes in JavaFX):
