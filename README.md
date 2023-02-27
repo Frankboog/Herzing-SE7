@@ -1,47 +1,51 @@
 # Herzing-SE7
 
 ## Description:
-It took some time for me to get Spring Boot application working to MY satisfaction. 
-It turns out in the course of focusing on functionality, I made an error.
-I made a product manager interface (because it was easy) not realizing it was not one of the options.
-I want you to know that I finally understand where the project is going.
-Server side for customers and clients, and the JavaFX backend for Admin, Gus, managers, etc.
-The Product Table is not really a good choice for server side access, but I didn't get the epiphany until the app was complete.
-
-Please accept this submission as an example of a fully functional CRUD Springboot and Java project.
-
-I don't know if I will have time to update or add more services before the end of this course, but I will definitely update for the next class.
-Also, the Delete is just a press and "you're out of here" type of situation, so couldn't really get an image of the action.
-
-Every phase of the Springboot CRUD project works like a charm.
+Here is the JavaFX back-end order management system. I only had time to complete one CRUD process in full.
+Buttons are in place for more servies. This OMS will display the product objects from the mysql database.
+The user can create, edit, and delete products, all from the Product Manager Page.
 
 ## Team:
 Frank James
 
 
-## OMS Landing Page (Needs Work):
+## OMS Landing Page (Udated):
+Still needs a bit of work, but moving in the right direction.
+Product Manager button and MenuItem work
 ![](images/landing.PNG)
 
-## Product Manager Page (All CRUD Functions Working):
+## Product Manager Page:
+This is the Product Manager Page. All CRUD functions work.
+Table view working.
 ![](images/manager.PNG)
 
 ## Create Product:
+To create a product just fill in the form and press save.
+Validations are not built in for this demonstration.
 ![](images/add_product.PNG)
 
 ## Edit Product:
+Notice the new 'TESTNEW' product at the bottom of list
+We will edit 'TEST3' prodcut.
 ![](images/edit.PNG)
 
 ## Product Manager After Edit:
+Notice test3 now says 'TEST EDIT FUNCTION'
 ![](images/after_edit.PNG)
 
 ## Delete Product:
+We will delete the 'TESTNEW' product.
+Pop up window with confirm question.
 ![](images/delete.PNG)
 
 ## Final Product Manager:
+Final view with deleted 'TESTNEW' Product
 ![](images/finalJavaFX.PNG)
 
 ## MySQL (After OMS Changes in JavaFX):
+MySQL workstation view, query everything from product table.
 ![](images/mysql.PNG)
 
 ## Springboot (After OMS Changes in JavaFX):
+Changes match on the Spring Boot server.
 ![](images/spring_boot.PNG)
