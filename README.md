@@ -11,7 +11,7 @@ Frank James
 
 ## OMS Landing Page (Udated):
 Still needs a bit of work, but moving in the right direction. 
-Product Manager button and MenuItem work
+Product Manager button and MenuItems selection are working.
 ![](images/landing.PNG)
 
 ## Product Manager Page:
